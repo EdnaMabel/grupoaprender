@@ -38,7 +38,7 @@ body {
 
   }
   .font li a:hover{
-    color:red!important;
+    color:#1cb5b9!important;
    
    
   }
@@ -78,7 +78,7 @@ body {
   }
   
   .adress p {
-    color:green;
+    color:black;
     font-size:18px!important;
   }
   
@@ -118,13 +118,13 @@ body {
   
  
   .button-jumbotron{
-    background-color: #024cb5 !important;
-    color:white !important;
+    background-color:#F5C205!important;
+    color:black !important;
   }
 
   .button-jumbotron:hover{
-    background-color: #1f86fc !important;
-    color:black !important;
+    background-color:black!important;
+    color:white !important;
 
   }
  
@@ -135,7 +135,7 @@ body {
     /*Inicio estilos componente agendar*/
 
     .agendar{
-      background-color:#024cb5;
+      background-color:#1cb5b9;
       width:100%;
     }
 
@@ -164,7 +164,7 @@ body {
 
     }
     .cotizar-1{
-      background-color: #024cb5!important;
+      background-color: #18182a!important;
     }
 
 
@@ -179,7 +179,7 @@ body {
 
     }
     .agendar-boton{
-    background-color:#f5c205!important;
+    background-color:#1cb5b9!important;
     Color:black!important;
     font-weight: bold!important;
     box-shadow: rgba(0,0,0,0.7)!important;
@@ -187,7 +187,7 @@ body {
     }
 
     .agendar-boton:hover{
-      background-color:#024cb5!important;
+      background-color:#1cb5b9!important;
       Color:white!important;
       font-weight: bold!important;
       box-shadow: rgba(0,0,0,0.7)!important;
@@ -256,7 +256,7 @@ body {
   
     .footer-icons label:hover{
       font-size:30px;
-      color:#F5C205;
+      color:#18182a;
     
     }
   .lista-footer a{
@@ -285,6 +285,23 @@ body {
 
 
   }
+  .formulario-footer{
+    background-color:#18182a!important;
+  }
+  .button-formulario{
+    background-color:#1cb5b9 !important;
+    color:white !important;
+  }
+  .button-formulario:hover{
+    background-color:#1cb5b9 !important;
+    color:black!important;
+  }
+.privacidad1{
+ color:white; 
+
+}
+  
+
 
   
     /*fin estilos footer*/
@@ -313,7 +330,7 @@ body {
   
   .beneficios label:hover{
     background-color: white;
-    color:#024cb5;
+    color:#18182a;
   
   }
   .beneficios h3{
@@ -443,9 +460,12 @@ body {
 
     /**Inicio estilos formulario **/
     .formulario{
-      background-color:#1f86fc;
-    }
+      background-color:#1cb5b9;
     
+    }
+    .formulario h3{
+      color:white!important;
+    }
 /**fin estilos formulario**/
 
 
@@ -489,11 +509,11 @@ body {
 
 /**Inicio estilos mensaje enviado**/
 .mensaje-enviado{
-  background-color:#1f86fc!important;
+  background-color:#1cb5b9!important;
   height: 500px!important;
 }
 .mensaje-exito{
-  background-color: white!important;
+  background-color:#1cb5b9!important;
   
 }
 
